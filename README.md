@@ -45,15 +45,10 @@ This dashboard transforms raw sales data into an executive decision-support tool
 Chocolate-Sales/
 
 ├── 01_data/
-
 │   ├── 01_raw/             
-
 │   └── 02_processed/       
-
 ├── 02_notebooks/
-
 ├── 03_dashboards   
-
 └── README.md
 
 * `/01_data`: Original database (CSV/Excel).
