@@ -42,14 +42,17 @@ This dashboard transforms raw sales data into an executive decision-support tool
 
 ## 📂 Repository Struct
 
-Chocolate-Sales/
 
+```
+Chocolate-Sales/
 ├── 01_data/
-│   ├── 01_raw/             
-│   └── 02_processed/       
+│   ├── 01_raw/
+│   └── 02_processed/
 ├── 02_notebooks/
-├── 03_dashboards   
+├── 03_dashboards/
 └── README.md
+```
+
 
 * `/01_data`: Original database (CSV/Excel).
 * `/02_notebooks`: Jupyter Notebooks with data cleaning in Python and data exploration and visualization.
