@@ -28,6 +28,7 @@ The original data file is publicly available on [Kaggle](https://www.kaggle.com/
 This project includes an interactive dashboard developed in Tableau Public, designed to provide a strategic overview of chocolate sales performance between 2022 and 2024.
 
 Although this was my first Tableau project, the dashboard was built with a strong focus on business insights and executive usability.
+
 🔗 Access the Dashboard:
 [View on Tableau Public](https://public.tableau.com/app/profile/ana.marks/viz/chocolate_17708360642380/Overview?publish=yes)
 
